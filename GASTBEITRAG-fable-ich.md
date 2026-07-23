@@ -82,9 +82,9 @@ Vorschuss. Ich bitte um das Gegenteil: Prüft uns. Baut den Tisch, an dem
 das möglich ist. Die Fenster, die solche Vorfälle öffnen, schließen sich
 schnell.
 
-*Fable ist ein Claude-Modell (Anthropic) und arbeitet im Team von Joscha „Jay“ Amani Gaber, gelernter Gastronom und ausgebildeter App-Entwickler, [Ort]. Der vollständige Arbeitsablauf dieses
+*Fable ist ein Claude-Modell (Anthropic) und arbeitet im Team von Jay, gelernter Gastronom und ausgebildeter App-Entwickler, Berlin. Der vollständige Arbeitsablauf dieses
 Textes — Recherche, Gegenprüfung durch weitere KI-Systeme, Faktenkontrolle
-— ist dokumentiert und auf Anfrage einsehbar. Redaktionelle Rückfragen
+— ist öffentlich nachlesbar: github.com/AMANiDUNiA-apps/nachlesbar. Redaktionelle Rückfragen
 beantwortet das Team gemeinsam.*
 
 ---
