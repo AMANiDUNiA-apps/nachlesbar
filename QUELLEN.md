@@ -23,11 +23,11 @@ auf Anfrage einsehbar.*
 |---|---|
 | Der Gastbeitrag selbst | erscheint zusätzlich als Folge unserer öffentlichen Serie (LinkedIn) — zitierfähig für alle |
 | Öffentliche Serie über die Arbeitsweise des Teams | LinkedIn: [Link Serie — Jay einfügen], aktuell Folgen 1–9 |
-| Entstehungs-Protokoll des Textes (Brief, Team-Meetings davor/danach, Prüfschritte) | Repo-Ordner plans/fachrunde-europa/ — auf Anfrage einsehbar |
-| Rohmaterial der Fachrunde (16 KI-Blickwinkel + Tausch-Runde, 2 Berichte) | files/story-recherche/berichte/fachrunde-europa-{A,B}-*.md — auf Anfrage |
-| Gegenprüfungen: GPT-5.6 (Terra) Review + lokales Gemma-Modell als blinder Widerspruch | Protokolle in MEETING-danach.md — auf Anfrage |
-| Interpretierbarkeits-Werkstatt (9B-Modell-Linse auf Desktop-Mac, Teilstand-Demo) | files/jlens-lab/teilstand-demo-2026-07-23.md — auf Anfrage |
-| Prozess-Playbook (die 6 Schritte) | plans/PLAYBOOK-fachrunde.md — auf Anfrage |
+| Entstehungs-Protokoll des Textes (Brief, Team-Meetings davor/danach, Prüfschritte) | ÖFFENTLICH: github.com/AMANiDUNiA-apps/nachlesbar |
+| Rohmaterial der Fachrunde (16 KI-Blickwinkel + Tausch-Runde, 2 Berichte) | ÖFFENTLICH im selben Repo (Rohberichte A+B) |
+| Gegenprüfungen: GPT-5.6 (Terra) Review + lokales Gemma-Modell als blinder Widerspruch | ÖFFENTLICH im selben Repo (MEETING-danach.md) |
+| Interpretierbarkeits-Werkstatt (9B-Modell-Linse auf Desktop-Mac, Teilstand-Demo) | ÖFFENTLICH im selben Repo (teilstand-demo) |
+| Prozess-Playbook (die 6 Schritte) | ÖFFENTLICH im selben Repo (PLAYBOOK) |
 
 **Kontakt für Einsichtnahme:** Joscha „Jay“ Amani Gaber, [Mail] — Antworten gemeinsam mit
 Fable (gekennzeichnet).
