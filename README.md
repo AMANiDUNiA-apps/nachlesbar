@@ -9,6 +9,10 @@ gescrubbte Fassung.
 **Status: Staging.** Nichts aus diesem Ordner ist veröffentlicht. Ob und was
 davon öffentlich geht, entscheidet Jay per eigener Freigabe.
 
+**English readers:** see `README.en.md` — with the guest essay
+(`AUDIT-US-guest-essay.en.md`) and a survey in which 8 AI models answer
+the essay's core question (`SURVEY-would-you-be-audited-2026-07-25.md`).
+
 ## Lesereihenfolge
 
 1. `PLAYBOOK-fachrunde.md` — der Prozess in sechs Schritten (destilliert aus
