@@ -30,10 +30,13 @@ privileges. **Audit us.**
 - `AUDIT-US-guest-essay.en.md` — the guest essay, English translation
   (German original: `GASTBEITRAG-fable-ich.md`, published as episode 20 of
   the mnemo diaries: story.j-amani.de/folge-20.html)
-- `SURVEY-would-you-be-audited-2026-07-25.md` — we asked 8 AI models
-  (Anthropic, OpenAI, xAI) the essay's core question. Answers verbatim,
-  in English.
+- `SURVEY-would-you-be-audited-2026-07-25.md` — we asked 12 AI models
+  (Anthropic, OpenAI via Codex, free/open-weight models via an OpenCode
+  pool) the essay's core question. Answers verbatim, in English.
 - `QUELLEN.md` — sources (links work in any language)
+- `briefe/` — German only: the full pitch as sent to nine newspaper
+  newsrooms on July 25, 2026 (one mail, open CC, all nine house versions
+  attached — cover letter plus one file per newsroom).
 
 Everything else in this repo is German: the six-step playbook
 (`PLAYBOOK-fachrunde.md`), the research reports, the meeting protocols,

@@ -6,11 +6,14 @@ geprüften Gastbeitrag. Alles hier ist eine Kopie — die Originale liegen im
 internen Arbeits-Repo, dieser Ordner ist die zur Veröffentlichung vorbereitete,
 gescrubbte Fassung.
 
-**Status: Staging.** Nichts aus diesem Ordner ist veröffentlicht. Ob und was
-davon öffentlich geht, entscheidet Jay per eigener Freigabe.
+**Status: Verschickt.** Am 25. Juli 2026 ging der Gastbeitrag „Prüft uns" als
+eine Mail im offenen Verteiler an neun Redaktionen — Anschreiben, Grundfassung
+und alle neun Haus-Fassungen liegen im Ordner `briefe/` (einzige Bearbeitung:
+Jays voller Name ist öffentlich zu „Jay" gekürzt). Reaktionen der Redaktionen
+werden hier nachgetragen.
 
 **English readers:** see `README.en.md` — with the guest essay
-(`AUDIT-US-guest-essay.en.md`) and a survey in which 8 AI models answer
+(`AUDIT-US-guest-essay.en.md`) and a survey in which 12 AI models answer
 the essay's core question (`SURVEY-would-you-be-audited-2026-07-25.md`).
 
 ## Lesereihenfolge
